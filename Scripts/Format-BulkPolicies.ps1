@@ -1,5 +1,5 @@
 # Fix folders without 3 files (azurepolicy.json, azurepolicy.parameters.json, azurepolicy.rules.json)
-
+#testing comments in pr
 [CmdletBinding()]
 param (
     [parameter(Mandatory = $false, Position = 0)]
